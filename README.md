@@ -1,4 +1,4 @@
-CNN vs ResNet: CIFAR-10 Multi-Class Classification
+Custom CNN vs ResNet: CIFAR-10 Multi-Class Classification
 
 This project demonstrates the comparison of a custom Convolutional Neural Network (CNN) with a pre-trained ResNet model for multi-class classification using the CIFAR-10 dataset. The goal is to analyze the performance differences between these two architectures in terms of accuracy, precision, recall, F1-score, and computational efficiency.
 
